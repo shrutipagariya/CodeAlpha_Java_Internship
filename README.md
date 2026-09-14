@@ -74,6 +74,3 @@ CodeAlpha_Java_Internship/
 │   └── Main.java
 │
 └── README.md
-
-## 👨‍💻 Author
-**Shruti Pagariya**
