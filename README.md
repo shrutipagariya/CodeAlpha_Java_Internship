@@ -76,4 +76,4 @@ CodeAlpha_Java_Internship/
 └── README.md
 
 ## 👤 Author
-Shruti Pagariya
+**Shruti Pagariya**
